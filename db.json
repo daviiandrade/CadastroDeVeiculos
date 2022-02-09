@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "name": "Davi Cordeiro Andrade",
+      "placa": "XYZ1234",
+      "id": 2
+    },
+    {
+      "name": "Mateus Lindo",
+      "placa": "BGF5789",
+      "id": 5
+    }
+  ]
+}
